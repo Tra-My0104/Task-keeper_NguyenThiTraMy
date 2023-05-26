@@ -1,0 +1,28 @@
+.main{
+    display: flex !important;
+    justify-content: space-around;
+}
+
+.form-control{
+    width: 150px !important;
+    margin-top: 30px;
+}
+
+.form-select{
+    margin-top: 30px;
+    width: 100px !important;
+}
+
+.btn{
+    height: 40px;
+    margin-top: 20px;
+    margin-right: 50px;
+}
+
+.table{
+    margin-top: 100px;
+    text-align: center;
+}
+
+
+
